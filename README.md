@@ -1,21 +1,28 @@
 # Olá, sou o Eduardo Motta! 👋
 
-Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, automação de sistemas e criador de soluções para facilitar o dia a dia.
+Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em automação, otimização de sistemas Windows e desenvolvimento de utilitários técnicos para facilitar a rotina de manutenção.
 
-### 🛠 Sobre mim
-*   **Localização:** Belém, Pará.
-*   **Foco Técnico:** Automação, manutenção de sistemas Windows e otimização de hardware.
-*   **Projetos em destaque:** [Motta NetFix](https://github.com/cermotta/MottaNetFix) - Automação de atualizações para Windows.
-*   **Iniciativas:** Criador do projeto "Motta Achados" (Marketing e E-commerce).
+### 🛠 Minhas Ferramentas de Automação
+Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnóstico e performance:
 
-### 🚀 Tecnologias e Habilidades
-*   **Windows & Manutenção:** Windows Update, Driver Management, Otimização de Performance.
-*   **Ferramentas:** Git/GitHub, Markdown, automação via scripts.
-*   **Design:** Criação de artes, logos e materiais promocionais.
+*   **[MottaUpdateManager](https://github.com/cermotta/MottaUpdateManager):** Automação de atualizações de software e drivers com reparo de integridade.
+*   **[MottaCleaner](https://github.com/cermotta/MottaCleaner):** Limpeza segura de arquivos temporários do sistema.
+*   **[MottaFixer](https://github.com/cermotta/MottaFixer):** Reparo de cache de ícones e correção de falhas visuais no Windows.
+*   **[MottaNetFix](https://github.com/cermotta/MottaNetFix):** Diagnóstico de rede, reset de pilha TCP/IP e otimização de DNS.
+*   **[monitor-bios-generico](https://github.com/cermotta/monitor-bios-generico):** Identificação de hardware (placa-mãe/BIOS) para suporte técnico.
 
-### 📫 Como entrar em contato
-*   Me acompanhe aqui no GitHub para ver os novos lançamentos do **Motta Update Manager**.
-*   Para parcerias ou dúvidas sobre o projeto: `cermotta@me.com`
+### 🚀 Habilidades & Foco
+*   **Desenvolvimento:** Scripts em Python para utilitários de sistema.
+*   **Infraestrutura:** Manutenção, diagnóstico e otimização de Windows.
+*   **Design:** Criação de ativos visuais e identidade para projetos.
+*   **E-commerce:** Gestão de iniciativas de marketing (Motta Achados).
+
+### 📫 Contato & Apoio
+Se meus projetos te ajudaram a otimizar sua máquina, considere apoiar meu trabalho.
+
+*   **Contato profissional:** `eduardomottagithub@gmail.com`
+*   **Apoio via PIX (Qualquer valor):** `mottatshirts@jim.com`
+*   **GitHub:** Acompanhe minhas atualizações e commits por aqui.
 
 ---
 *Desenvolvido com foco em transparência, performance e eficiência.*
