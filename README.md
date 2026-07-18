@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou o Eduardo Motta! 👋
 
-<!--
-**cermotta/cermotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, automação de sistemas e criador de soluções para facilitar o dia a dia.
 
-Here are some ideas to get you started:
+### 🛠 Sobre mim
+*   **Localização:** Belém, Pará.
+*   **Foco Técnico:** Automação, manutenção de sistemas Windows e otimização de hardware.
+*   **Projetos em destaque:** [Motta Update Manager](https://github.com/cermotta/MottaNetFix) - Automação de atualizações para Windows.
+*   **Iniciativas:** Criador do projeto "Motta Achados" (Marketing e E-commerce).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Habilidades
+*   **Windows & Manutenção:** Windows Update, Driver Management, Otimização de Performance.
+*   **Ferramentas:** Git/GitHub, Markdown, automação via scripts.
+*   **Design:** Criação de artes, logos e materiais promocionais.
+
+### 📫 Como entrar em contato
+*   Me acompanhe aqui no GitHub para ver os novos lançamentos do **Motta Update Manager**.
+*   Para parcerias ou dúvidas sobre o projeto: `cermotta@me.com`
+
+---
+*Desenvolvido com foco em transparência, performance e eficiência.*
