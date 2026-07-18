@@ -5,7 +5,7 @@ Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, automaçã
 ### 🛠 Sobre mim
 *   **Localização:** Belém, Pará.
 *   **Foco Técnico:** Automação, manutenção de sistemas Windows e otimização de hardware.
-*   **Projetos em destaque:** [Motta Update Manager](https://github.com/cermotta/MottaNetFix) - Automação de atualizações para Windows.
+*   **Projetos em destaque:** [Motta NetFix](https://github.com/cermotta/MottaNetFix) - Automação de atualizações para Windows.
 *   **Iniciativas:** Criador do projeto "Motta Achados" (Marketing e E-commerce).
 
 ### 🚀 Tecnologias e Habilidades
