@@ -28,7 +28,7 @@ Se meus projetos te ajudaram a otimizar sua máquina, considere apoiar meu traba
 *   **GitHub:** Acompanhe minhas atualizações e commits por aqui.
 
 ### 📊 Minhas Estatísticas
-[Clique aqui para ver minhas estatísticas no GitHub](https://github.com/cermotta)
+[Clique aqui para visualizar suas estatísticas detalhadas](https://github-readme-stats.vercel.app/api?username=cermotta&show_icons=true&theme=radical)
 
 ---
 *Desenvolvido com foco em transparência, performance e eficiência.*
