@@ -5,6 +5,7 @@ Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em 
 ### 🛠 Minhas Ferramentas de Automação
 Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnóstico e performance:
 
+*   **[MottaSystemOptimizer](https://github.com/cermotta/MottaSystemOptimizer):** Ferramenta completa para otimização de Windows, incluindo ajustes de performance, instalação de softwares via Winget, remoção de bloatware e funções de limpeza.
 *   **[MottaBootableMediaCreator](https://github.com/cermotta/MottaBootableMediaCreator):** Ferramenta automatizada para criar mídias de instalação bootáveis, incluindo download direto da ISO, formatação via diskpart e processamento de imagem com DISM.
 *   **[MottaInfoHardware](https://github.com/cermotta/MottaInfoHardware):** Diagnóstico rápido de hardware (CPU, RAM, GPU, Discos) com interface otimizada.
 *   **[MottaUpdateManager](https://github.com/cermotta/MottaUpdateManager):** Automação de atualizações de software e drivers com reparo de integridade.
