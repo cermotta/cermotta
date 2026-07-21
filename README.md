@@ -5,7 +5,8 @@ Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em 
 ### 🛠 Minhas Ferramentas de Automação
 Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnóstico e performance:
 
-*   **[Motta AI Support](https://github.com/cermotta/Motta-Al-Support):** Assistente interativo de suporte técnico, diagnóstico de hardware, testes de rede e limpeza de sistema.
+*   **[Motta Ativadores](https://github.com/cermotta/motta-ativadores):** Gerenciador e ativador automatizado para sistemas Windows e Office com interface interativa estilizada.
+*   **[Motta AI Support](https://github.com/cermotta/Motta-AI-Support):** Assistente interativo de suporte técnico, diagnóstico de hardware, testes de rede e limpeza de sistema.
 *   **[MottaSystemDiag](https://github.com/cermotta/Motta-System-Diag):** Ferramenta avançada para diagnóstico de hardware e otimização de sistema, com relatórios detalhados, testes de internet e rotinas automáticas de correção.
 *   **[MottaSystemOptimizer](https://github.com/cermotta/MottaSystemOptimizer):** Ferramenta completa para otimização de Windows, incluindo ajustes de performance, instalação de softwares via Winget, remoção de bloatware e funções de limpeza.
 *   **[MottaBootableMediaCreator](https://github.com/cermotta/MottaBootableMediaCreator):** Ferramenta automatizada para criar mídias de instalação bootáveis, incluindo download direto da ISO, formatação via diskpart e processamento de imagem com DISM.
