@@ -5,7 +5,8 @@ Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em 
 ### 🛠 Minhas Ferramentas de Automação
 Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnóstico e performance:
 
-*   **[Motta GPU Checker](https://github.com/cermotta/Motta-GPU-Checker):** Utilitário avançado para diagnóstico de placa de vídeo, correção inteligente de leitura de VRAM real e teste de estresse integrado. 🆕
+*   **[Motta MemTest](https://github.com/cermotta/Motta-MemTest):** Utilitário avançado para diagnóstico de memória RAM, mapeamento de slots físicos (A1/B2) e teste de estresse. 🆕
+*   **[Motta GPU Checker](https://github.com/cermotta/Motta-GPU-Checker):** Utilitário avançado para diagnóstico de placa de vídeo, correção inteligente de leitura de VRAM real e teste de estresse integrado.
 *   **[Motta Ativadores](https://github.com/cermotta/motta-ativadores):** Gerenciador e ativador automatizado para sistemas Windows e Office com interface interativa estilizada.
 *   **[Motta AI Support](https://github.com/cermotta/Motta-AI-Support):** Assistente interativo de suporte técnico, diagnóstico de hardware, testes de rede e limpeza de sistema.
 *   **[MottaSystemDiag](https://github.com/cermotta/Motta-System-Diag):** Ferramenta avançada para diagnóstico de hardware e otimização de sistema, com relatórios detalhados, testes de internet e rotinas automáticas de correção.
