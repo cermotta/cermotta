@@ -3,12 +3,13 @@
 Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em automação, otimização de sistemas Windows e desenvolvimento de utilitários técnicos para facilitar a rotina de manutenção.
 
 ### 🛠 Minhas Ferramentas de Automação
-Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnóstico e performance:
+Atualmente, mantenho um conjunto robusto de utilitários em Python voltados para diagnóstico, suporte e performance:
 
-*   **[Motta MemTest](https://github.com/cermotta/Motta-MemTest):** Utilitário avançado para diagnóstico de memória RAM, mapeamento de slots físicos (A1/B2) e teste de estresse. 🆕
+*   **[Motta Suporte](https://github.com/cermotta/motta-suporte):** Aplicativo profissional de diagnóstico, otimização e limpeza de sistema Windows com interface gráfica moderna em Tkinter e assistente inteligente. 🆕🔥
+*   **[Motta MemTest](https://github.com/cermotta/Motta-MemTest):** Utilitário avançado para diagnóstico de memória RAM, mapeamento de slots físicos (A1/B2) e teste de estresse.
 *   **[Motta GPU Checker](https://github.com/cermotta/Motta-GPU-Checker):** Utilitário avançado para diagnóstico de placa de vídeo, correção inteligente de leitura de VRAM real e teste de estresse integrado.
 *   **[Motta Ativadores](https://github.com/cermotta/motta-ativadores):** Gerenciador e ativador automatizado para sistemas Windows e Office com interface interativa estilizada.
-*   **[Motta AI Support](https://github.com/cermotta/Motta-AI-Support):** Assistente interativo de suporte técnico, diagnóstico avançado de hardware (winsat) e limpeza de sistema. 🆕
+*   **[Motta AI Support](https://github.com/cermotta/Motta-AI-Support):** Assistente interativo de suporte técnico, diagnóstico avançado de hardware (winsat) e limpeza de sistema.
 *   **[MottaSystemDiag](https://github.com/cermotta/Motta-System-Diag):** Ferramenta avançada para diagnóstico de hardware e otimização de sistema, com relatórios detalhados, testes de internet e rotinas automáticas de correção.
 *   **[MottaSystemOptimizer](https://github.com/cermotta/MottaSystemOptimizer):** Ferramenta completa para otimização de Windows, incluindo ajustes de performance, instalação de softwares via Winget, remoção de bloatware e funções de limpeza.
 *   **[MottaBootableMediaCreator](https://github.com/cermotta/MottaBootableMediaCreator):** Ferramenta automatizada para criar mídias de instalação bootáveis, incluindo download direto da ISO, formatação via diskpart e processamento de imagem com DISM.
@@ -19,11 +20,11 @@ Atualmente, mantenho um conjunto de utilitários em Python voltados para diagnó
 *   **[MottaNetFix](https://github.com/cermotta/MottaNetFix):** Diagnóstico de rede, reset de pilha TCP/IP e otimização de DNS.
 *   **[monitor-bios-generico](https://github.com/cermotta/monitor-bios-generico):** Identificação de hardware (placa-mãe/BIOS) para suporte técnico.
 
-*   
+---
 
 ### 🚀 Habilidades & Foco
-*   **Desenvolvimento:** Scripts em Python para utilitários de sistema.
-*   **Infraestrutura:** Manutenção, diagnóstico e otimização de Windows.
+*   **Desenvolvimento:** Scripts em Python para utilitários de sistema e interfaces gráficas.
+*   **Infraestrutura:** Manutenção, diagnóstico e otimização avançada de Windows.
 *   **Design:** Criação de ativos visuais e identidade para projetos.
 *   **E-commerce:** Gestão de iniciativas de marketing (Motta Achados).
 
