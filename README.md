@@ -5,7 +5,8 @@ Seja bem-vindo ao meu perfil no GitHub. Sou entusiasta de tecnologia, focado em 
 ### 🛠 Minhas Ferramentas de Automação
 Atualmente, mantenho um conjunto robusto de utilitários em Python voltados para diagnóstico, suporte e performance:
 
-*   **[Motta Suporte](https://github.com/cermotta/motta-suporte):** Aplicativo profissional de diagnóstico, otimização e limpeza de sistema Windows com interface gráfica moderna em Tkinter e assistente inteligente. 🆕🔥
+*   **[Motta App Installer](https://github.com/cermotta/mottaappinstaller):** Central automática de instalação de softwares via Winget, atualização em lote de aplicativos desatualizados e otimização rápida do Windows com interface moderna. 🆕🔥
+*   **[Motta Suporte](https://github.com/cermotta/motta-suporte):** Aplicativo profissional de diagnóstico, otimização e limpeza de sistema Windows com interface gráfica moderna em Tkinter e assistente inteligente.
 *   **[Motta MemTest](https://github.com/cermotta/Motta-MemTest):** Utilitário avançado para diagnóstico de memória RAM, mapeamento de slots físicos (A1/B2) e teste de estresse.
 *   **[Motta GPU Checker](https://github.com/cermotta/Motta-GPU-Checker):** Utilitário avançado para diagnóstico de placa de vídeo, correção inteligente de leitura de VRAM real e teste de estresse integrado.
 *   **[Motta Ativadores](https://github.com/cermotta/motta-ativadores):** Gerenciador e ativador automatizado para sistemas Windows e Office com interface interativa estilizada.
